@@ -1,0 +1,8 @@
+development.env*
+development.env
+development.env.local*
+development.env.local
+/development.env
+/development.env*
+/development.env.local
+/development.env.local*
